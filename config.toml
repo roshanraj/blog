@@ -1,0 +1,21 @@
+languageCode = "en-us"
+title = "RR | Blog"
+
+name = "RR"
+license = "MIT"
+licenselink = "https://github.com/allnightgrocery/hugo-theme-blueberry-detox/blob/master/LICENSE"
+description = "Personal blog."
+
+tags = ["blog", "minimal", "ghost", "white","personal"]
+features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing options"]
+min_version = 0.14
+
+[author]
+  name = "Roshan Raj"
+  homepage = "http://roshanraj.com"
+
+# If porting an existing theme
+[original]
+  name = "Jordan Bowman"
+  homepage = "http://www.jrdnbwmn.com"
+  repo = "https://github.com/jrdnbwmn/detox"
