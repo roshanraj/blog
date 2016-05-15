@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spf13 Vim on RR | Blog</title>
+    <link>/tags/spf13-vim/</link>
+    <description>Recent content in Spf13 Vim on RR | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Mar 2016 01:30:32 +0530</lastBuildDate>
+    <atom:link href="/tags/spf13-vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ir_window</title>
+      <link>/post/machine-vision/</link>
+      <pubDate>Thu, 24 Mar 2016 01:30:32 +0530</pubDate>
+      
+      <guid>/post/machine-vision/</guid>
+      <description>&lt;p&gt;Go to Hugo Releases and download the appropriate version for your OS and architecture.&lt;/p&gt;
+
+&lt;p&gt;Save the main executable as hugo (or hugo.exe on Windows) somewhere in your PATH as we will be using it in the next step.&lt;/p&gt;
+
+&lt;p&gt;More complete instructions are available at Installing Hugo&lt;/p&gt;
+
+&lt;p&gt;Once hugo is installed, make sure to run the help command to verify hugo installation. Below you can see part of the help command output for brevity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

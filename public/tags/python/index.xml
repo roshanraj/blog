@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on RR | Blog</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on RR | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Mar 2016 01:30:32 +0530</lastBuildDate>
+    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Image Processing</title>
+      <link>/machine-vision/1/</link>
+      <pubDate>Thu, 24 Mar 2016 01:30:32 +0530</pubDate>
+      
+      <guid>/machine-vision/1/</guid>
+      <description>
+
+&lt;h4 id=&#34;introduction-to-image-processing-using-scikit-image-in-python:68871302bbbcb28641271500c80178a6&#34;&gt;Introduction to &lt;em&gt;Image processing&lt;/em&gt; using &lt;strong&gt;scikit-image&lt;/strong&gt; in &lt;strong&gt;python&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;scikit-image is a community driven collection of algorithms for image processing. It is available free of charge and free of restriction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/images/coffee-cup-mug-desk.jpg&#34; alt=&#34;alt text&#34; title=&#34;Title&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;image does not got rendered&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
