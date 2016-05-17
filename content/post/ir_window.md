@@ -3,6 +3,9 @@ date = "2016-03-24T01:30:32+05:30"
 title = "ir_window"
 header = "RR Blog"
 slug = "machine-vision"
+Draft = true
+
+
 tags = [ ".vimrc", "plugins", "spf13-vim", "vim" ]
 
 categories = [

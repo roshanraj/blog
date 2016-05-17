@@ -3,6 +3,8 @@ date = "2016-03-24T01:30:32+05:30"
 title = "Image Processing"
 header = "RR Blog"
 slug = "1"
+Draft = true
+
 tags = [ "scikit", "python", "image-processing" ]
 
 categories = [

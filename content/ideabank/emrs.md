@@ -21,7 +21,7 @@ World Health Organization's report states average rate was 17.4 per 100,000 peop
 
 Most of the death occurs in developing nations due to lack of fast aid and emergency mechanism that can help in faster access to fast aid.
 
-### What is it? ###
+#### What is it? ####
 
 * ***Hardware*** that can be fitted in a car to collision detection mechanism that triggers airbag.
 * ***Hardware (Standalone package)*** that has its own collision detection.
@@ -29,11 +29,13 @@ Most of the death occurs in developing nations due to lack of fast aid and emerg
 
 Incase of any road accident, system automatically sends location to Central system like 911 and hospitals, fire-station and police-station nearby.
 Increasing chance of saving life by decreasing time of fast aid.
-
-## How it works ###
+ 
+#### How it works ####
 
 ["id]: /images/howitwork.png "Title"   
 ![alt text](/images/howitwork.png "Title")
 
+#### Glipse of System ####
 
-image does not got rendered
+
+#### Small Proof of concept was demonstrated at Sharda University
