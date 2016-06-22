@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideabanks on RR | Blog</title>
-    <link>/ideabank/</link>
+    <link>http://localhost:1313/ideabank/</link>
     <description>Recent content in Ideabanks on RR | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Mar 2016 01:30:32 +0530</lastBuildDate>
-    <atom:link href="/ideabank/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ideabank/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Emergency Response System</title>
-      <link>/ideabank/emrs/</link>
+      <link>http://localhost:1313/ideabank/emrs/</link>
       <pubDate>Sun, 27 Mar 2016 01:30:32 +0530</pubDate>
       
-      <guid>/ideabank/emrs/</guid>
+      <guid>http://localhost:1313/ideabank/emrs/</guid>
       <description>
 
 &lt;h4 id=&#34;introduction:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Introduction&lt;/h4&gt;
@@ -24,7 +24,7 @@ World Health Organization&amp;rsquo;s report states average rate was 17.4 per 10
 
 &lt;p&gt;Most of the death occurs in developing nations due to lack of fast aid and emergency mechanism that can help in faster access to fast aid.&lt;/p&gt;
 
-&lt;h3 id=&#34;what-is-it:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;What is it?&lt;/h3&gt;
+&lt;h4 id=&#34;what-is-it:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;What is it?&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Hardware&lt;/em&gt;&lt;/strong&gt; that can be fitted in a car to collision detection mechanism that triggers airbag.&lt;/li&gt;
@@ -35,11 +35,14 @@ World Health Organization&amp;rsquo;s report states average rate was 17.4 per 10
 &lt;p&gt;Incase of any road accident, system automatically sends location to Central system like 911 and hospitals, fire-station and police-station nearby.
 Increasing chance of saving life by decreasing time of fast aid.&lt;/p&gt;
 
-&lt;h2 id=&#34;how-it-works:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;How it works&lt;/h2&gt;
+&lt;h4 id=&#34;how-it-works:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;How it works&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/howitwork.png&#34; alt=&#34;alt text&#34; title=&#34;Title&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/howitwork.png&#34; alt=&#34;alt text&#34; title=&#34;Title&#34; /&gt;
+&lt;/p&gt;
 
-&lt;p&gt;image does not got rendered&lt;/p&gt;
+&lt;h4 id=&#34;glipse-of-system:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Glipse of System&lt;/h4&gt;
+
+&lt;h4 id=&#34;small-proof-of-concept-was-demonstrated-at-sharda-university:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Small Proof of concept was demonstrated at Sharda University&lt;/h4&gt;
 </description>
     </item>
     
