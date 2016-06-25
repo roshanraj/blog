@@ -7,7 +7,6 @@ build:
           echo "node version $(node -v) running"
           echo "npm version $(npm -v) running"
     - npm-install
-    - node server.js
 
 deploy:
   openshift:
