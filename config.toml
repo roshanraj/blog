@@ -6,7 +6,7 @@ license = "MIT"
 licenselink = "https://github.com/allnightgrocery/hugo-theme-blueberry-detox/blob/master/LICENSE"
 description = "Personal blog."
 
-baseurl="blog.roshanraj.com"
+baseurl="http://blog.roshanraj.com"
 
 tags = ["blog", "minimal", "ghost", "white","personal"]
 features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing options"]

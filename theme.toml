@@ -7,6 +7,8 @@ tags = ["blog", "minimal", "ghost", "white","personal"]
 features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing options"]
 min_version = 0.14
 
+baseurl = "http://blog.roshanraj.com/"
+
 [author]
   name = "Roshan Raj"
   homepage = "http://roshanraj.com"
