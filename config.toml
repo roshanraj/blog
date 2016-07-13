@@ -7,6 +7,8 @@ licenselink = "https://github.com/allnightgrocery/hugo-theme-blueberry-detox/blo
 description = "Personal blog."
 
 baseurl = "http://blog.roshanraj.com/"
+googleAnalytics = "UA-52446574-3"
+
 
 tags = ["blog", "minimal", "ghost", "white","personal"]
 features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing options"]

@@ -8,6 +8,7 @@ features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing 
 min_version = 0.14
 
 baseurl = "http://blog.roshanraj.com/"
+googleAnalytics = "UA-52446574-3"
 
 [author]
   name = "Roshan Raj"
