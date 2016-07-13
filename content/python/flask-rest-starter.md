@@ -15,7 +15,7 @@ categories = [
 +++
 
 
-# Using Flask for blazing fast Rest API development
+## Using Flask for blazing fast Rest API development
 ### Directory structure
 
 
@@ -36,7 +36,8 @@ categories = [
 * python main.py
 * server will start on port 5000
 
-# Two routes defined in the sample
+## Two routes defined in the sample
+
 ### /todo 
 ##### metod (Post)
 ![Alt text](/images/post.png "Post")

@@ -17,9 +17,9 @@
       <guid>http://blog.roshanraj.com/python/flask-rest-starter/</guid>
       <description>
 
-&lt;h1 id=&#34;using-flask-for-blazing-fast-rest-api-development:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Using Flask for blazing fast Rest API development&lt;/h1&gt;
+&lt;h2 id=&#34;using-flask-for-blazing-fast-rest-api-development:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;Using Flask for blazing fast Rest API development&lt;/h2&gt;
 
-&lt;h3 id=&#34;directory-structure:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Directory structure&lt;/h3&gt;
+&lt;h3 id=&#34;directory-structure:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;Directory structure&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;.
 |
@@ -37,35 +37,35 @@
 &lt;li&gt;models - holds different data models.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;quick-start:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Quick Start&lt;/h3&gt;
+&lt;h3 id=&#34;quick-start:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;Quick Start&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;python main.py&lt;/li&gt;
 &lt;li&gt;server will start on port 5000&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;two-routes-defined-in-the-sample:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Two routes defined in the sample&lt;/h1&gt;
+&lt;h2 id=&#34;two-routes-defined-in-the-sample:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;Two routes defined in the sample&lt;/h2&gt;
 
-&lt;h3 id=&#34;todo:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;/todo&lt;/h3&gt;
+&lt;h3 id=&#34;todo:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;/todo&lt;/h3&gt;
 
-&lt;h5 id=&#34;metod-post:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (Post)&lt;/h5&gt;
+&lt;h5 id=&#34;metod-post:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;metod (Post)&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/post.png&#34; alt=&#34;Alt text&#34; title=&#34;Post&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h5 id=&#34;metod-get:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (get)&lt;/h5&gt;
+&lt;h5 id=&#34;metod-get:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;metod (get)&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/get.png&#34; alt=&#34;Alt text&#34; title=&#34;Get&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h3 id=&#34;todo-todo-id:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;/todo/&lt;todo id&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;todo-todo-id:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;/todo/&lt;todo id&gt;&lt;/h3&gt;
 
-&lt;h5 id=&#34;metod-get-1:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (Get)&lt;/h5&gt;
+&lt;h5 id=&#34;metod-get-1:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;metod (Get)&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/withid.png&#34; alt=&#34;Alt text&#34; title=&#34;Get&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h5 id=&#34;metod-put:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (Put)&lt;/h5&gt;
+&lt;h5 id=&#34;metod-put:8f492df1de83072dcf6c4f4bd873bb9b&#34;&gt;metod (Put)&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/put.png&#34; alt=&#34;Alt text&#34; title=&#34;Put&#34; /&gt;
 &lt;/p&gt;
