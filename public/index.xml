@@ -6,8 +6,71 @@
     <description>Recent content on RR | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Mar 2016 01:30:32 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jul 2016 01:30:32 +0530</lastBuildDate>
     <atom:link href="http://blog.roshanraj.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Superfast Rest API with flask</title>
+      <link>http://blog.roshanraj.com/python/flask-rest-starter/</link>
+      <pubDate>Thu, 14 Jul 2016 01:30:32 +0530</pubDate>
+      
+      <guid>http://blog.roshanraj.com/python/flask-rest-starter/</guid>
+      <description>
+
+&lt;h1 id=&#34;using-flask-for-blazing-fast-rest-api-development:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Using Flask for blazing fast Rest API development&lt;/h1&gt;
+
+&lt;h3 id=&#34;directory-structure:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Directory structure&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+|
+├── utils
+├── handlers
+|   └──  todo.py
+├── models
+|   └──  todo.py
+└── main.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;main.py - holds route and flask application initialization.&lt;/li&gt;
+&lt;li&gt;handlers - This directory holds handlers for different routes.&lt;/li&gt;
+&lt;li&gt;models - holds different data models.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;quick-start:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Quick Start&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;python main.py&lt;/li&gt;
+&lt;li&gt;server will start on port 5000&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;two-routes-defined-in-the-sample:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;Two routes defined in the sample&lt;/h1&gt;
+
+&lt;h3 id=&#34;todo:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;/todo&lt;/h3&gt;
+
+&lt;h5 id=&#34;metod-post:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (Post)&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/post.png&#34; alt=&#34;Alt text&#34; title=&#34;Post&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h5 id=&#34;metod-get:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (get)&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/get.png&#34; alt=&#34;Alt text&#34; title=&#34;Get&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;todo-todo-id:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;/todo/&lt;todo id&gt;&lt;/h3&gt;
+
+&lt;h5 id=&#34;metod-get-1:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (Get)&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/withid.png&#34; alt=&#34;Alt text&#34; title=&#34;Get&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h5 id=&#34;metod-put:8da7466ab01c035ddc91351dc6f073d0&#34;&gt;metod (Put)&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.roshanraj.com/images/put.png&#34; alt=&#34;Alt text&#34; title=&#34;Put&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Emergency Response System</title>

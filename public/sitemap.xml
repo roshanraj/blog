@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://blog.roshanraj.com/</loc>
-    <lastmod>2016-03-27T01:30:32+05:30</lastmod>
+    <lastmod>2016-07-14T01:30:32+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.roshanraj.com/python/flask-rest-starter/</loc>
+    <lastmod>2016-07-14T01:30:32+05:30</lastmod>
   </url>
   
   <url>
